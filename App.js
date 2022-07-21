@@ -2,8 +2,8 @@ import "./styles.css";
 import React, { useState } from "react";
 
 var signDictionary = {
-  "🚭": "No Smocking",
-  "🚳": "No Cyclaling",
+  "🚭": "No Smoking",
+  "🚳": "No Cycling",
   "📵": "No Phone Allowed",
   "🚯": "No Littering",
   "🔞": "Only 18+",
