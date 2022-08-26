@@ -1,6 +1,6 @@
 # sign_interpreter
 
-* About:
+### About:
 
 - This sign interpreter will helps you to find the meaning of traffic symbols by entering the symbols.
 
